@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingRecyclerView</string>
+    <string name="github_entries">Github Entries</string>
+</resources>
